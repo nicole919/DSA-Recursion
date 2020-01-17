@@ -1,0 +1,31 @@
+1. What is the big O for this?
+    1a. O(1) - (selecting object from an array)
+    1b. O(n) - (you are looping through an array)
+
+2. Even or Odd
+    O(1) - only one action is occuring one time, regardless of input
+
+3. Are you here?
+    O(n^2) - they are nested loops with linear iterations
+
+4. Doubler
+    O(n) - the function grows linearly based on the length of the array
+
+5. Naive search
+    O(n) - linear search through array
+
+6. Creating Pairs
+    O(n^2) - nested linear operation
+
+7. Compute the Sequence
+    O(n) - loops through the results array, pushes next value to the end of the array - fibonacci sequence
+
+8. An Efficient Search 
+    O(n) - the search gets smaller after each iteration
+
+9. Random Element
+    O(1) - it does one operation regardless of input
+
+10. What am I?
+    This function checks to see if a number is prime or not
+
